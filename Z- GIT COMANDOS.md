@@ -18,15 +18,15 @@ git config --list --global
 
 ## create a new repository on the command line
 ## (CRIANDO UM NOVO REPOSITORIO)
-echo "# nomeRepositorioGitHub" >> README.md
+## OPCIONAL -> echo "# nomeRepositorioGitHub" >> README.md
 git init
+
+git branch -M master   (renomeia a branch principal para master)
+git remote add origin https://github.com/Super1one/aluraStage1.git
 
 git add .   (ou o nome dos arquivos desejados)
 git status
 git commit -m "first commit"    (fazer commit)
-
-git branch -M master   (renomeia a branch principal para master)
-git remote add origin https://github.com/Super1one/aluraStage1.git
 git push -u origin master
 
 ## or push an existing repository from the command line
