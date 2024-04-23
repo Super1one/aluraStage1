@@ -49,3 +49,6 @@ git remote rename origin novo-origin
                      |        |
 ##                apelido  novo-apelido
 
+
+## MUNDO CRUEL
+
