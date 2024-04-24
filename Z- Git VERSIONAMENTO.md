@@ -1,6 +1,7 @@
 ## lista de commits
 git log
 git log --oneline --all --graph --decorate (advance)
+git log -p   (detalhes)
 
 ------------------------------------------------------
 # REVERTER ou APAGAR ou MODIFICAR UM "commit"
