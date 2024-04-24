@@ -6,6 +6,8 @@ Dica: User editor de mesclagem / merge editor
   Incoming -> remoto
   currente -> local
 
-  
+OBS: Após a resolução de conflito(merge) é necessário 1 novo "commit" e 1 novo "push" (sincronizar)
+
+
 
 
